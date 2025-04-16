@@ -1,4 +1,4 @@
 Alumnos:
-    Hugo Blanco Demelo. DNI: 53196995L
-    Renato Bedriñana Cárdenas. NIE: Y8067054W
+    Hugo Blanco Demelo.
+    Renato Bedriñana Cárdenas.
 Implementación de la funcionalidad avanzada: Sí
